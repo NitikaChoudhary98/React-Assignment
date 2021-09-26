@@ -1,0 +1,8 @@
+.btn input {
+  display: inline;
+  border-radius: 8px;
+  font-size: 15px;
+}
+.btn :hover {
+  background-color: #8b8282;
+}

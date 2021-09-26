@@ -1,9 +1,4 @@
 .App {
   text-align: center;
-  background-color: black;
-}
-.heading {
-  color: aqua;
-  text-align: center;
-  padding-top: 15px;
+  margin-top: 20px;
 }

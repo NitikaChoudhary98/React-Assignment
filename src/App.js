@@ -3,11 +3,9 @@ import Table from './Table';
 
 import './App.css';
 
-
 function App() {
   return (
-    <div className="App">
-      <h1 className="heading">REACT-ASSIGNEMENT</h1>
+    <div className='App'>
       <Table />
     </div>
   );
