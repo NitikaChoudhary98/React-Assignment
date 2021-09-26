@@ -13,8 +13,11 @@ To Add Bootstrap:
 npm install react-bootstrap
 
 HOW TO RUN :
+
 1.Open the downloaded file into Visual studio Code editor
+
 2.Install the above dependencies through vs code terminal 
+
 3. Run the code using "npm start" 
 
 
