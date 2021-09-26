@@ -18,7 +18,7 @@ HOW TO RUN :
 
 2.Install the above dependencies through vs code terminal 
 
-3. Run the code using "npm start" 
+3.Run the code using "npm start" 
 
 
 
