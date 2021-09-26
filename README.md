@@ -1,8 +1,9 @@
 # react-assignment
 
 Library used : "Material-Table"
-To Install packages use below command in vscode terminal:
-npm install material-table --save
+To Install packages use command in vscode terminal:
+
+npm install material-table --save,
 npm install @material-ui/core --save
 
 To Add material icons:
